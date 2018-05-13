@@ -5,6 +5,7 @@ end
 
 class Author
   attr_accessor :name
+
 end
 
 class Post
@@ -14,5 +15,4 @@ end
 
 class Song
   attr_accessor :title, :artist
-  
 end
